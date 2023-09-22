@@ -1,0 +1,11 @@
+export { default as Header } from "./Header";
+export { default as Hero } from "./Hero";
+export { default as Powered_By } from "./Powered_By";
+export { default as Services } from "./Services";
+export { default as Experience } from "./Experience";
+export { default as Team } from "./Team";
+export { default as Work } from "./Work";
+export { default as Testimonial } from "./Testimonial";
+export { default as Contact } from "./Contact";
+export { default as Newsletter } from "./Newsletter";
+export { default as Footer } from "./Footer";
