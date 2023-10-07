@@ -7,11 +7,16 @@ const config: Config = {
       center: true,
       padding: "2rem",
       screens: {
+        md: "320px",
+        lg: "768px",
+        xl: "1152px",
         "2xl": "1400px",
+        "3xl": "1920px",
       },
     },
     extend: {
       colors: {
+        tgreen: "#0F4745",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
